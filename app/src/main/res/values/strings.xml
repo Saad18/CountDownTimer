@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="_0_30">0 : 30</string>
+    <string name="go">Go!</string>
+    <string name="stop">Stop</string>
+    <string name="count">0 : 30</string>
+</resources>
